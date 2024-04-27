@@ -1,0 +1,36 @@
+p{
+    font-size: smaller;
+    visibility: calc();
+}
+.ms{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1px;
+}
+.fb{
+    display: inline-block;
+    vertical-align: middle;
+}
+.x{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 2px;
+}
+.yt{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 2px;
+}
+.co{
+    display: inline-block;
+    vertical-align: middle;
+}
+.openai{
+    display: inline-block;
+    vertical-align: middle;
+}
+.login{
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 2px;
+}
